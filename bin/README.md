@@ -1,2 +1,0 @@
-# asdf-ext
-asdf extension
